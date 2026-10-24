@@ -1,0 +1,23 @@
+     [02:10:20] --- Started Log ---
+     [02:10:20] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [02:10:20] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [02:10:20] Creating new server instance...
+     [02:10:20] Reading server config...
+     [02:10:20] Starting server...
+Info [02:10:20] Compatible clients: 1.8.x-1.14.4
+Warn [02:10:20] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [02:10:20] Loaded 789 crafting recipes
+Warn [02:10:20] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [02:10:20] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [02:10:20] Loaded 1.12.2 380 recipe book
+     [02:10:20] Loaded 67 furnace recipes and 66 fuels
+     [02:10:20] Loaded 49 brewing recipes
+Warn [02:10:20] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [02:10:20] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [02:10:20] -- Loading Plugins --
+     [02:10:20] Cannot load plugin, folder "Core" not found.
+     [02:10:20] Cannot load plugin, folder "ChatLog" not found.
+     [02:10:20] -- No Plugins Loaded --
+     [02:10:21] Preparing spawn (world): 1.50% (6/400; 5.97 chunks / sec)
+     [02:10:22] Preparing spawn (world): 57.00% (228/400; 219.58 chunks / sec)
+Warn [02:10:23] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}

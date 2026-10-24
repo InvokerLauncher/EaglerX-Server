@@ -1,0 +1,28 @@
+     [21:56:47] --- Started Log ---
+     [21:56:47] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [21:56:47] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [21:56:47] Creating new server instance...
+     [21:56:47] Reading server config...
+     [21:56:47] Starting server...
+Info [21:56:47] Compatible clients: 1.8.x-1.14.4
+Warn [21:56:47] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [21:56:47] Loaded 789 crafting recipes
+Warn [21:56:47] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [21:56:47] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [21:56:47] Loaded 1.12.2 380 recipe book
+     [21:56:47] Loaded 67 furnace recipes and 66 fuels
+     [21:56:47] Loaded 49 brewing recipes
+Warn [21:56:47] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [21:56:47] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [21:56:47] -- Loading Plugins --
+     [21:56:47] Cannot load plugin, folder "Core" not found.
+     [21:56:47] Cannot load plugin, folder "ChatLog" not found.
+     [21:56:47] -- No Plugins Loaded --
+     [21:56:48] Preparing spawn (world): 2.75% (11/400; 10.86 chunks / sec)
+     [21:56:49] Preparing spawn (world): 63.50% (254/400; 224.79 chunks / sec)
+     [21:56:50] Preparing spawn (world_nether): 88.25% (353/400; 352.30 chunks / sec)
+Warn [21:56:50] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [21:56:50] Startup complete, took 3734ms!
+     [21:57:13] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [21:57:13] Player tree_0252 has joined the game
+Warn [21:57:13] AddEntity: Entity at 0x781ab4013da0 (cPlayer, ID 97) spawning in a non-existent chunk.

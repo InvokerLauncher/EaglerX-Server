@@ -1,7 +1,7 @@
 listener_01:
   address: 0.0.0.0:8081
   address_v6: 'null'
-  max_players: 60
+  max_players: 50
   tab_list: GLOBAL_PING
   default_server: lobby
   force_default_server: true
@@ -10,7 +10,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&5Replit EaglercraftX server'
+  - '&e&lTreeFish SMP'
   allow_motd: true
   allow_query: true
   request_motd_cache:
@@ -36,7 +36,7 @@ listener_01:
       - '127.*'
       - '0:0:0:0:0:0:0:1'
     login:
-      enable: false
+      enable: true
       period: 50
       limit: 5
       limit_lockout: 10

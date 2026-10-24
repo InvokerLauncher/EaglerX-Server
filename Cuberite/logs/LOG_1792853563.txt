@@ -1,0 +1,37 @@
+     [14:52:43] --- Started Log ---
+     [14:52:43] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [14:52:43] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [14:52:43] Creating new server instance...
+     [14:52:43] Reading server config...
+     [14:52:43] Starting server...
+Info [14:52:43] Compatible clients: 1.8.x-1.14.4
+Warn [14:52:43] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [14:52:43] Loaded 789 crafting recipes
+Warn [14:52:43] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [14:52:43] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [14:52:43] Loaded 1.12.2 380 recipe book
+     [14:52:43] Loaded 67 furnace recipes and 66 fuels
+     [14:52:43] Loaded 49 brewing recipes
+Warn [14:52:43] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [14:52:43] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [14:52:43] -- Loading Plugins --
+     [14:52:43] Cannot load plugin, folder "Core" not found.
+     [14:52:43] Cannot load plugin, folder "ChatLog" not found.
+     [14:52:43] -- No Plugins Loaded --
+     [14:52:45] Preparing spawn (world_nether): 93.25% (373/400; 373.00 chunks / sec)
+Warn [14:52:45] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [14:52:45] Startup complete, took 1787ms!
+     [14:52:58] Executing console command: "help"
+     [14:52:58] chunkstats      - Displays detailed chunk memory statistics
+     [14:52:58] destroyentities - Destroys all entities in all worlds
+     [14:52:58] help            - Shows the available commands
+     [14:52:58] load            - Adds and enables the specified plugin
+     [14:52:58] reload          - Reloads all plugins
+     [14:52:58] reloadweb       - Reloads the webadmin configuration
+     [14:52:58] restart         - Restarts the server cleanly
+     [14:52:58] stop            - Stops the server cleanly
+     [14:52:58] unload          - Disables the specified plugin
+     [14:53:03] Shutting down server...
+     [14:53:03] Cleaning up...
+     [14:53:03] Shutdown successful!
+     [14:53:03] --- Stopped Log ---

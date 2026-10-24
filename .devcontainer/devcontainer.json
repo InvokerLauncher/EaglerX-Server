@@ -1,0 +1,4 @@
+{
+  "name": "My Auto Workspace",
+  "postStartCommand": "nohup ./main.sh > output.log 2>&1 &"
+}

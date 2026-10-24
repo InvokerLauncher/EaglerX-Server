@@ -1,0 +1,101 @@
+     [02:11:50] --- Started Log ---
+     [02:11:50] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [02:11:50] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [02:11:50] Creating new server instance...
+     [02:11:50] Reading server config...
+     [02:11:50] Starting server...
+Info [02:11:50] Compatible clients: 1.8.x-1.14.4
+Warn [02:11:50] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [02:11:50] Loaded 789 crafting recipes
+Warn [02:11:50] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [02:11:50] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [02:11:50] Loaded 1.12.2 380 recipe book
+     [02:11:50] Loaded 67 furnace recipes and 66 fuels
+     [02:11:50] Loaded 49 brewing recipes
+Warn [02:11:50] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [02:11:50] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [02:11:50] -- Loading Plugins --
+     [02:11:50] Cannot load plugin, folder "Core" not found.
+     [02:11:50] Cannot load plugin, folder "ChatLog" not found.
+     [02:11:50] -- No Plugins Loaded --
+     [02:11:52] Preparing spawn (world_nether): 87.75% (351/400; 338.15 chunks / sec)
+Warn [02:11:52] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [02:11:52] Startup complete, took 1914ms!
+     [02:12:48] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [02:12:48] Player tree_0252 has joined the game
+Warn [02:12:48] AddEntity: Entity at 0x777c40015680 (cPlayer, ID 139) spawning in a non-existent chunk.
+Warn [02:12:49] MoveEntityToNewChunk: Entity at 0x777c6d0e0d70 (cBat, ID 189) moving to a non-existent chunk.
+Info [02:13:05] Player tree_0252 has left the game
+     [02:14:18] Executing console command: "diffultly"
+     [02:14:18] Unknown command, type 'help' for all commands.
+     [02:14:19] Executing console command: "help"
+     [02:14:19] chunkstats      - Displays detailed chunk memory statistics
+     [02:14:19] destroyentities - Destroys all entities in all worlds
+     [02:14:19] help            - Shows the available commands
+     [02:14:19] load            - Adds and enables the specified plugin
+     [02:14:19] reload          - Reloads all plugins
+     [02:14:19] reloadweb       - Reloads the webadmin configuration
+     [02:14:19] restart         - Restarts the server cleanly
+     [02:14:19] stop            - Stops the server cleanly
+     [02:14:19] unload          - Disables the specified plugin
+     [02:14:31] Executing console command: "destoryentities"
+     [02:14:31] Unknown command, type 'help' for all commands.
+     [02:14:43] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [02:14:43] Player tree_0252 has joined the game
+Info [02:18:20] Player tree_0252 has left the game
+     [02:18:53] Executing console command: "time set day"
+     [02:18:53] Unknown command, type 'help' for all commands.
+     [02:18:55] Executing console command: "help"
+     [02:18:55] chunkstats      - Displays detailed chunk memory statistics
+     [02:18:55] destroyentities - Destroys all entities in all worlds
+     [02:18:55] help            - Shows the available commands
+     [02:18:55] load            - Adds and enables the specified plugin
+     [02:18:55] reload          - Reloads all plugins
+     [02:18:55] reloadweb       - Reloads the webadmin configuration
+     [02:18:55] restart         - Restarts the server cleanly
+     [02:18:55] stop            - Stops the server cleanly
+     [02:18:55] unload          - Disables the specified plugin
+     [02:18:59] Executing console command: "chunkstats"
+     [02:18:59] World world:
+     [02:18:59]   Num loaded chunks: 67
+     [02:18:59]   Num dirty chunks: 67
+     [02:18:59]   Num chunks in lighting queue: 0
+     [02:18:59]   Num chunks in generator queue: 0
+     [02:18:59]   Num chunks in storage load queue: 0
+     [02:18:59]   Num chunks in storage save queue: 0
+     [02:18:59]   Memory used by chunks: 144 KiB (1 MiB)
+     [02:18:59] World world_nether:
+     [02:18:59]   Num loaded chunks: 0
+     [02:18:59]   Num dirty chunks: 0
+     [02:18:59]   Num chunks in lighting queue: 0
+     [02:18:59]   Num chunks in generator queue: 0
+     [02:18:59]   Num chunks in storage load queue: 0
+     [02:18:59]   Num chunks in storage save queue: 0
+     [02:18:59]   Memory used by chunks: 0 KiB (0 MiB)
+     [02:18:59] World world_the_end:
+     [02:18:59]   Num loaded chunks: 0
+     [02:18:59]   Num dirty chunks: 0
+     [02:18:59]   Num chunks in lighting queue: 0
+     [02:18:59]   Num chunks in generator queue: 0
+     [02:18:59]   Num chunks in storage load queue: 0
+     [02:18:59]   Num chunks in storage save queue: 0
+     [02:18:59]   Memory used by chunks: 0 KiB (0 MiB)
+     [02:18:59] Totals:
+     [02:18:59]   Num loaded chunks: 67
+     [02:18:59]   Num dirty chunks: 67
+     [02:18:59]   Num chunks in lighting queue: 0
+     [02:18:59]   Num chunks in generator queue: 0
+     [02:18:59]   Memory used by chunks: 144 KiB (1 MiB)
+     [02:18:59] Per-chunk memory size breakdown:
+     [02:18:59]   block types:    065536 bytes ( 64 KiB)
+     [02:18:59]   block metadata: 032768 bytes ( 32 KiB)
+     [02:18:59]   block lighting: 065536 bytes ( 64 KiB)
+     [02:18:59]   heightmap:      000256 bytes (  1 KiB)
+     [02:18:59]   biomemap:       001024 bytes (  1 KiB)
+     [02:19:03] Executing console command: "gamemode c"
+     [02:19:03] Unknown command, type 'help' for all commands.
+     [02:19:11] Executing console command: "diffulcty peaceful"
+     [02:19:11] Unknown command, type 'help' for all commands.
+     [02:19:48] Executing console command: "difficulty peaceful"
+     [02:19:48] Unknown command, type 'help' for all commands.
+     [02

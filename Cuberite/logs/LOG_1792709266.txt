@@ -1,0 +1,31 @@
+     [22:47:46] --- Started Log ---
+     [22:47:46] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [22:47:46] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [22:47:46] Creating new server instance...
+     [22:47:46] Reading server config...
+     [22:47:46] Starting server...
+Info [22:47:46] Compatible clients: 1.8.x-1.14.4
+Warn [22:47:46] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [22:47:46] Loaded 789 crafting recipes
+Warn [22:47:46] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [22:47:46] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [22:47:46] Loaded 1.12.2 380 recipe book
+     [22:47:46] Loaded 67 furnace recipes and 66 fuels
+     [22:47:46] Loaded 49 brewing recipes
+Warn [22:47:46] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [22:47:46] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [22:47:46] -- Loading Plugins --
+     [22:47:46] Cannot load plugin, folder "Core" not found.
+     [22:47:46] Cannot load plugin, folder "ChatLog" not found.
+     [22:47:46] -- No Plugins Loaded --
+     [22:47:48] Preparing spawn (world_nether): 86.00% (344/400; 342.97 chunks / sec)
+Warn [22:47:48] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [22:47:48] Startup complete, took 1827ms!
+     [22:48:16] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [22:48:16] Player tree_0252 has joined the game
+Warn [22:48:16] AddEntity: Entity at 0x7dbbd8015680 (cPlayer, ID 97) spawning in a non-existent chunk.
+Info [22:48:22] Player tree_0252 has left the game
+     [22:49:24] Shutting down server...
+     [22:49:24] Cleaning up...
+     [22:49:24] Shutdown successful!
+     [22:49:24] --- Stopped Log ---

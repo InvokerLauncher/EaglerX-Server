@@ -1,0 +1,63 @@
+     [22:11:58] --- Started Log ---
+     [22:11:58] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [22:11:58] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [22:11:58] Creating new server instance...
+     [22:11:58] Reading server config...
+     [22:11:58] Starting server...
+Info [22:11:58] Compatible clients: 1.8.x-1.14.4
+Warn [22:11:58] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [22:11:58] Loaded 789 crafting recipes
+Warn [22:11:58] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [22:11:58] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [22:11:58] Loaded 1.12.2 380 recipe book
+     [22:11:58] Loaded 67 furnace recipes and 66 fuels
+     [22:11:58] Loaded 49 brewing recipes
+Warn [22:11:58] Failed to load scoreboard from "world/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [22:11:58] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [22:11:58] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [22:11:58] Failed to load scoreboard from "world_nether/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [22:11:58] Failed to load scoreboard from "world_the_end/data/scoreboard.dat": basic_ios::clear: iostream error
+     [22:11:58] -- Loading Plugins --
+     [22:11:58] Cannot load plugin, folder "Core" not found.
+     [22:11:58] Cannot load plugin, folder "ChatLog" not found.
+     [22:11:58] -- No Plugins Loaded --
+Warn [22:11:59] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [22:11:59] Startup complete, took 1210ms!
+     [22:15:52] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [22:15:52] Player "tree_0252" (66e8995ab9913248aaf0fb04802d814d) save or statistics file not found, resetting to defaults
+Info [22:15:52] Player tree_0252 has joined the game
+Warn [22:15:52] AddEntity: Entity at 0x7e4690015680 (cPlayer, ID 96) spawning in a non-existent chunk.
+Info [22:16:08] Player tree_0252 has left the game
+     [22:18:06] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [22:18:06] Player tree_0252 has joined the game
+Warn [22:18:06] AddEntity: Entity at 0x7e46900ba690 (cPlayer, ID 121) spawning in a non-existent chunk.
+Info [22:18:23] Player tree_0252 has left the game
+     [22:18:54] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [22:18:54] Player tree_0252 has joined the game
+     [22:19:46] Player tree_0252 is executing command "/gamerule" in world "world" at world age 9313.
+Info [22:19:46] Player tree_0252 issued an unknown command: "/gamerule"
+Info [22:19:52] Player tree_0252 has left the game
+     [22:26:34] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [22:26:34] Player tree_0252 has joined the game
+Warn [22:26:34] AddEntity: Entity at 0x7e46900ba690 (cPlayer, ID 168) spawning in a non-existent chunk.
+     [22:26:41] Player tree_0252 is executing command "/time set day" in world "world" at world age 17610.
+Info [22:26:41] Player tree_0252 issued an unknown command: "/time set day"
+     [22:26:43] Player tree_0252 is executing command "/help" in world "world" at world age 17646.
+Info [22:26:43] Player tree_0252 issued an unknown command: "/help"
+Info [22:26:49] Player tree_0252 has left the game
+     [22:34:13] Executing console command: "./main.sh"
+     [22:34:13] Unknown command, type 'help' for all commands.
+     [22:34:21] Executing console command: "help"
+     [22:34:21] chunkstats      - Displays detailed chunk memory statistics
+     [22:34:21] destroyentities - Destroys all entities in all worlds
+     [22:34:21] help            - Shows the available commands
+     [22:34:21] load            - Adds and enables the specified plugin
+     [22:34:21] reload          - Reloads all plugins
+     [22:34:21] reloadweb       - Reloads the webadmin configuration
+     [22:34:21] restart         - Restarts the server cleanly
+     [22:34:21] stop            - Stops the server cleanly
+     [22:34:21] unload          - Disables the specified plugin
+     [22:34:35] Shutting down server...
+     [22:34:35] Cleaning up...
+     [22:34:35] Shutdown successful!
+     [22:34:35] --- Stopped Log ---

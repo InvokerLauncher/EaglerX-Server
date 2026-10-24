@@ -1,0 +1,74 @@
+     [14:53:15] --- Started Log ---
+     [14:53:15] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [14:53:15] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [14:53:15] Creating new server instance...
+     [14:53:15] Reading server config...
+     [14:53:15] Starting server...
+Info [14:53:15] Compatible clients: 1.8.x-1.14.4
+Warn [14:53:15] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [14:53:15] Loaded 789 crafting recipes
+Warn [14:53:15] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [14:53:15] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [14:53:15] Loaded 1.12.2 380 recipe book
+     [14:53:15] Loaded 67 furnace recipes and 66 fuels
+     [14:53:15] Loaded 49 brewing recipes
+Warn [14:53:15] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [14:53:15] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [14:53:15] -- Loading Plugins --
+     [14:53:15] Cannot load plugin, folder "Core" not found.
+     [14:53:15] Cannot load plugin, folder "ChatLog" not found.
+     [14:53:15] -- No Plugins Loaded --
+     [14:53:16] Preparing spawn (world_nether): 62.00% (248/400; 247.75 chunks / sec)
+Warn [14:53:17] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [14:53:17] Startup complete, took 2113ms!
+     [14:53:22] Executing console command: "help"
+     [14:53:22] chunkstats      - Displays detailed chunk memory statistics
+     [14:53:22] destroyentities - Destroys all entities in all worlds
+     [14:53:22] help            - Shows the available commands
+     [14:53:22] load            - Adds and enables the specified plugin
+     [14:53:22] reload          - Reloads all plugins
+     [14:53:22] reloadweb       - Reloads the webadmin configuration
+     [14:53:22] restart         - Restarts the server cleanly
+     [14:53:22] stop            - Stops the server cleanly
+     [14:53:22] unload          - Disables the specified plugin
+     [14:53:32] Executing console command: "destroyentities"
+     [14:53:32] Destroyed all entities
+     [14:53:41] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [14:53:41] Player tree_0252 has joined the game
+Warn [14:53:41] AddEntity: Entity at 0x7a0ff4015680 (cPlayer, ID 139) spawning in a non-existent chunk.
+     [14:54:16] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [14:54:16] Player "NoodlesTL" (2883b2b8cf1d3fe7a8f579f800388cd7) save or statistics file not found, resetting to defaults
+Info [14:54:16] Player NoodlesTL has joined the game
+Warn [14:54:16] AddEntity: Entity at 0x7a0ff401e140 (cPlayer, ID 200) spawning in a non-existent chunk.
+Info [14:56:18] Player tree_0252 has left the game
+     [14:56:34] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [14:56:34] Player tree_0252 has joined the game
+Info [14:56:49] Player tree_0252 has left the game
+     [14:56:56] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [14:56:56] Player tree_0252 has joined the game
+     [15:05:35] Player tree_0252 is executing command "/tp tree_0252 NoodlesTL" in world "world" at world age 80258.
+Info [15:05:35] Player tree_0252 issued an unknown command: "/tp tree_0252 NoodlesTL"
+Warn [15:08:18] *** Window lost sync at item 2 in SlotArea with 3 items ***
+Warn [15:08:18] My item:    cookedmutton:0 * 1
+Warn [15:08:18] Their item: -1:0:0 * 0
+Warn [15:09:15] DistributeItemToSlots: Distributing less items (0) than slots (1)
+Info [15:10:30] Player NoodlesTL has left the game
+     [15:10:31] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:10:31] Player NoodlesTL has joined the game
+Warn [15:11:38] DistributeItemToSlots: Distributing less items (0) than slots (1)
+Info [15:12:48] Player NoodlesTL has left the game
+     [15:13:13] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:13:13] Player NoodlesTL has joined the game
+Warn [15:18:47] MoveEntityToNewChunk: Entity at 0x7a0ff4015540 (cPlayer, ID 370) moving to a non-existent chunk.
+Info [15:20:12] Kicking player tree_0252 for "Too many blocks were destroyed per unit time - hacked client?"
+Info [15:20:12] Kicking player tree_0252 for "Too many blocks were destroyed per unit time - hacked client?"
+Info [15:20:12] Player tree_0252 has left the game
+Warn [15:20:17] SpawnSplitExperienceOrbs: Attempting to create an experience orb with non-positive reward!
+     [15:20:17] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:20:17] Player tree_0252 has joined the game
+Info [15:25:29] Player tree_0252 has left the game
+Warn [15:25:31] MoveEntityToNewChunk: Entity at 0x7a101c1d5a90 (cSlime, ID 1668) moving to a non-existent chunk.
+Warn [15:26:32] *** Window lost sync at item 2 in SlotArea with 3 items ***
+Warn [15:26:32] My item:    steak:0 * 1
+Warn [15:26:32] Their item: -1:0:0 * 0
+Warn [15:31:33] DistributeItemToSlots: Distributing less items (0) than slots (1)

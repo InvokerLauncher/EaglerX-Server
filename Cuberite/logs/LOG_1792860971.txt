@@ -1,0 +1,56 @@
+     [16:56:11] --- Started Log ---
+     [16:56:11] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [16:56:11] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [16:56:11] Creating new server instance...
+     [16:56:11] Reading server config...
+     [16:56:11] Starting server...
+Info [16:56:11] Compatible clients: 1.8.x-1.14.4
+Warn [16:56:11] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [16:56:11] Loaded 789 crafting recipes
+Warn [16:56:11] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [16:56:11] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [16:56:11] Loaded 1.12.2 380 recipe book
+     [16:56:11] Loaded 67 furnace recipes and 66 fuels
+     [16:56:11] Loaded 49 brewing recipes
+Warn [16:56:11] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [16:56:11] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [16:56:11] -- Loading Plugins --
+     [16:56:11] Cannot load plugin, folder "Core" not found.
+     [16:56:11] Cannot load plugin, folder "ChatLog" not found.
+     [16:56:11] -- No Plugins Loaded --
+     [16:56:12] Preparing spawn (world): 27.50% (110/400; 109.13 chunks / sec)
+Warn [16:56:14] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [16:56:14] Startup complete, took 2964ms!
+     [16:56:33] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [16:56:33] Player tree_0252 has joined the game
+Warn [16:56:33] AddEntity: Entity at 0x74f930015680 (cPlayer, ID 143) spawning in a non-existent chunk.
+     [16:57:07] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [16:57:07] Player "ShapeStep" (2c22bba00bf9375084520f946e663f7d) save or statistics file not found, resetting to defaults
+Info [16:57:07] Player ShapeStep has joined the game
+Warn [16:57:07] AddEntity: Entity at 0x74f930018920 (cPlayer, ID 172) spawning in a non-existent chunk.
+Info [16:57:40] Player tree_0252 has left the game
+     [16:58:21] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [16:58:21] Player tree_0252 has joined the game
+Info [16:58:56] Player ShapeStep has left the game
+     [16:59:08] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [16:59:08] Player ShapeStep has joined the game
+Info [16:59:56] Player ShapeStep has left the game
+     [17:00:30] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:00:30] Player ShapeStep has joined the game
+Info [17:00:42] Player ShapeStep has left the game
+     [17:00:52] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:00:52] Player ShapeStep has joined the game
+Info [17:03:50] Player ShapeStep has left the game
+     [17:04:05] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:04:05] Player ShapeStep has joined the game
+Warn [17:05:41] Clicked: Wrong window ID (exp 45, got 0) received from "tree_0252"; ignoring click.
+Info [17:06:30] Player ShapeStep has left the game
+     [17:06:58] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:06:58] Player ShapeStep has joined the game
+Warn [17:06:58] AddEntity: Entity at 0x74f930018880 (cPlayer, ID 555) spawning in a non-existent chunk.
+Warn [17:06:59] MoveEntityToNewChunk: Entity at 0x74f960447610 (cBat, ID 236) moving to a non-existent chunk.
+Info [17:07:12] Player tree_0252 has left the game
+Info [17:08:09] Player ShapeStep has left the game
+     [17:16:14] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:16:14] Player NoodlesTL has joined the game
+Warn [17:16:14] AddEntity: Entity at 0x74f930025010 (cPlayer, ID 605) spawning in a non-existent chunk.

@@ -1,0 +1,30 @@
+     [22:34:35] --- Started Log ---
+     [22:34:35] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [22:34:35] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [22:34:35] Creating new server instance...
+     [22:34:35] Reading server config...
+     [22:34:35] Starting server...
+Info [22:34:35] Compatible clients: 1.8.x-1.14.4
+Warn [22:34:35] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [22:34:35] Loaded 789 crafting recipes
+Warn [22:34:35] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [22:34:35] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [22:34:35] Loaded 1.12.2 380 recipe book
+     [22:34:35] Loaded 67 furnace recipes and 66 fuels
+     [22:34:35] Loaded 49 brewing recipes
+Warn [22:34:35] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [22:34:35] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [22:34:35] -- Loading Plugins --
+     [22:34:35] Cannot load plugin, folder "Core" not found.
+     [22:34:35] Cannot load plugin, folder "ChatLog" not found.
+     [22:34:35] -- No Plugins Loaded --
+Warn [22:34:36] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [22:34:36] Startup complete, took 983ms!
+     [22:34:56] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [22:34:56] Player tree_0252 has joined the game
+Warn [22:34:56] AddEntity: Entity at 0x7e46b40b8910 (cPlayer, ID 295) spawning in a non-existent chunk.
+Info [22:35:29] Player tree_0252 has left the game
+     [22:38:05] Shutting down server...
+     [22:38:05] Cleaning up...
+     [22:38:05] Shutdown successful!
+     [22:38:05] --- Stopped Log ---

@@ -1,0 +1,43 @@
+     [14:48:35] --- Started Log ---
+     [14:48:35] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [14:48:35] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [14:48:35] Creating new server instance...
+     [14:48:35] Reading server config...
+     [14:48:35] Starting server...
+Info [14:48:35] Compatible clients: 1.8.x-1.14.4
+Warn [14:48:35] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [14:48:35] Loaded 789 crafting recipes
+Warn [14:48:35] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [14:48:35] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [14:48:35] Loaded 1.12.2 380 recipe book
+     [14:48:35] Loaded 67 furnace recipes and 66 fuels
+     [14:48:35] Loaded 49 brewing recipes
+Warn [14:48:35] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [14:48:35] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [14:48:35] -- Loading Plugins --
+     [14:48:35] Cannot load plugin, folder "Core" not found.
+     [14:48:35] Cannot load plugin, folder "ChatLog" not found.
+     [14:48:35] -- No Plugins Loaded --
+     [14:48:36] Preparing spawn (world): 27.50% (110/400; 109.02 chunks / sec)
+Warn [14:48:38] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [14:48:38] Startup complete, took 2992ms!
+     [14:50:15] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [14:50:15] Player tree_0252 has joined the game
+Warn [14:50:15] AddEntity: Entity at 0x738298015680 (cPlayer, ID 140) spawning in a non-existent chunk.
+Info [14:50:27] Player tree_0252 has left the game
+     [14:50:35] Executing console command: "help"
+     [14:50:35] chunkstats      - Displays detailed chunk memory statistics
+     [14:50:35] destroyentities - Destroys all entities in all worlds
+     [14:50:35] help            - Shows the available commands
+     [14:50:35] load            - Adds and enables the specified plugin
+     [14:50:35] reload          - Reloads all plugins
+     [14:50:35] reloadweb       - Reloads the webadmin configuration
+     [14:50:35] restart         - Restarts the server cleanly
+     [14:50:35] stop            - Stops the server cleanly
+     [14:50:35] unload          - Disables the specified plugin
+     [14:50:51] Executing console command: "destoryentities"
+     [14:50:51] Unknown command, type 'help' for all commands.
+     [14:50:59] Shutting down server...
+     [14:50:59] Cleaning up...
+     [14:50:59] Shutdown successful!
+     [14:50:59] --- Stopped Log ---

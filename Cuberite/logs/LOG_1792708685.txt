@@ -1,0 +1,42 @@
+     [22:38:05] --- Started Log ---
+     [22:38:05] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [22:38:05] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [22:38:05] Creating new server instance...
+     [22:38:05] Reading server config...
+     [22:38:05] Starting server...
+Info [22:38:05] Compatible clients: 1.8.x-1.14.4
+Warn [22:38:05] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [22:38:05] Loaded 789 crafting recipes
+Warn [22:38:05] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [22:38:05] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [22:38:05] Loaded 1.12.2 380 recipe book
+     [22:38:05] Loaded 67 furnace recipes and 66 fuels
+     [22:38:05] Loaded 49 brewing recipes
+Warn [22:38:05] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [22:38:05] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [22:38:05] -- Loading Plugins --
+     [22:38:05] Cannot load plugin, folder "Core" not found.
+     [22:38:05] Cannot load plugin, folder "ChatLog" not found.
+     [22:38:05] -- No Plugins Loaded --
+Warn [22:38:06] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [22:38:06] Startup complete, took 974ms!
+     [22:38:25] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [22:38:25] Player tree_0252 has joined the game
+Warn [22:38:25] AddEntity: Entity at 0x7e469c0b8910 (cPlayer, ID 418) spawning in a non-existent chunk.
+Info [22:38:46] Player tree_0252 has left the game
+     [22:39:32] Executing console command: "motd"
+     [22:39:32] Unknown command, type 'help' for all commands.
+     [22:39:34] Executing console command: "help"
+     [22:39:34] chunkstats      - Displays detailed chunk memory statistics
+     [22:39:34] destroyentities - Destroys all entities in all worlds
+     [22:39:34] help            - Shows the available commands
+     [22:39:34] load            - Adds and enables the specified plugin
+     [22:39:34] reload          - Reloads all plugins
+     [22:39:34] reloadweb       - Reloads the webadmin configuration
+     [22:39:34] restart         - Restarts the server cleanly
+     [22:39:34] stop            - Stops the server cleanly
+     [22:39:34] unload          - Disables the specified plugin
+     [22:42:34] Shutting down server...
+     [22:42:34] Cleaning up...
+     [22:42:34] Shutdown successful!
+     [22:42:34] --- Stopped Log ---
